@@ -1,6 +1,15 @@
-# Hi, I'm Adeel 👋
+# Hi, I'm Muhammad Adeel Zahid 👋
 
-I'm an embedded software engineer and graduate researcher focused on building reliable connected systems across firmware, wireless communication, and intelligent applications.
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammadadeelzahid/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adeel.m.zahid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+I'm an embedded systems engineer and graduate researcher focused on building reliable connected systems across firmware, wireless communication, and intelligent applications.
 
 Currently, I’m pursuing a **Master’s in Electrical and Computer Engineering at the University of Manitoba**, where I work on **5G NR simulation, transport protocol performance, and AI-driven congestion prediction**. My background includes **3+ years of experience** in **embedded software, IoT products, BLE mesh networking, ESP32 development, and real-time systems**.
 
@@ -43,10 +52,6 @@ Currently, I’m pursuing a **Master’s in Electrical and Computer Engineering 
 
 ## A bit more about me
 I enjoy working on systems where hardware, firmware, and networking meet. Whether it is designing embedded features for connected products, building drivers close to the hardware, or evaluating transport protocols in complex wireless environments, I like solving practical engineering problems with measurable performance impact.
-
-## Connect with me
-- LinkedIn: [muhammadadeelzahid](https://www.linkedin.com/in/muhammadadeelzahid/)
-- Email: [adeel.m.zahid@gmail.com](mailto:adeel.m.zahid@gmail.com)
 
 ---
 
