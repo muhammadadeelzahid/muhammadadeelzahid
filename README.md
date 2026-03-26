@@ -39,12 +39,6 @@ Currently, I’m pursuing a **Master’s in Electrical and Computer Engineering 
   <img src="https://skillicons.dev/icons?i=c,cpp,aws,git,github,githubactions,gitlab,linux,bash,cmake,qt&perline=11" alt="Tech stack icons" />
 </p>
 
-## GitHub stats
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadadeelzahid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadadeelzahid&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
 ## Current focus
 - Researching protocol behavior in **5G LEO satellite environments**
 - Exploring **AI-assisted congestion prediction** for adaptive transport performance
