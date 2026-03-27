@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Adeel Zahid 👋
+# Hi, I'm Adeel 👋
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammadadeelzahid/" target="_blank">
