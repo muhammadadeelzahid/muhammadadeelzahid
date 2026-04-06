@@ -1,17 +1,17 @@
 # Hi, I'm Adeel 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammadadeelzahid/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:adeel.m.zahid@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <a href="https://www.linkedin.com/in/muhammadadeelzahid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:adeel.m.zahid@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="Gmail" /></a>
 </p>
 
 I'm an embedded systems engineer and graduate researcher focused on building reliable connected systems across firmware, wireless communication, and intelligent applications.
 
 Currently, I’m pursuing a **Master’s in Electrical and Computer Engineering at the University of Manitoba**, where I work on **5G NR simulation, transport protocol performance, and AI-driven congestion prediction**. My background includes **3+ years of experience** in **embedded software, IoT products, BLE mesh networking, ESP32 development, and real-time systems**.
+
+I enjoy working on systems where hardware, firmware, and networking meet. Whether it is designing embedded features for connected products, building drivers close to the hardware, or evaluating transport protocols in complex wireless environments, I like solving practical engineering problems with measurable performance impact.
+
+I also contribute to open source research, particularly in **NS-3**, with an interest in networking systems. I am also an early-stage **Linux kernel contributor**, currently working on **documentation, code quality improvements, and bugfixes** as I continue to strengthen my foundations in Linux systems engineering.
 
 ## What I work on
 - Embedded firmware development with **ESP32**, **ESP-IDF**, **FreeRTOS**, **NRF52**, and **STM32**
@@ -39,14 +39,3 @@ Currently, I’m pursuing a **Master’s in Electrical and Computer Engineering 
   <img src="https://skillicons.dev/icons?i=c,cpp,aws,git,github,githubactions,gitlab,linux,bash,cmake,qt&perline=11" alt="Tech stack icons" />
 </p>
 
-## Current focus
-- Researching protocol behavior in **5G LEO satellite environments**
-- Exploring **AI-assisted congestion prediction** for adaptive transport performance
-- Building robust embedded and IoT systems with production-oriented design
-
-## A bit more about me
-I enjoy working on systems where hardware, firmware, and networking meet. Whether it is designing embedded features for connected products, building drivers close to the hardware, or evaluating transport protocols in complex wireless environments, I like solving practical engineering problems with measurable performance impact.
-
----
-
-> Open to collaborations in embedded systems, IoT, wireless networking, and applied research.
