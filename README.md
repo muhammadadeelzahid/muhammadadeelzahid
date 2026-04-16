@@ -8,12 +8,12 @@ Currently, I’m pursuing a **Master’s in Electrical and Computer Engineering 
 
 I enjoy working on systems where hardware, firmware, and networking meet. Whether it is designing embedded features for connected products, building drivers close to the hardware, or evaluating transport protocols in complex wireless environments, I like solving practical engineering problems with measurable performance impact.
 
-I also contribute to open source research, particularly in **NS-3**, with an interest in networking systems. I am also an early-stage **Linux kernel contributor**, currently working on **documentation, code quality improvements, and bugfixes** as I continue to strengthen my foundations in Linux systems engineering.
+I also contribute to open source research, particularly in **ns-3**, with an interest in networking systems. I am also an early-stage **Linux kernel contributor**, currently working on **documentation, code quality improvements, and bugfixes** as I continue to strengthen my foundations in Linux systems engineering.
 
 ## What I work on
 - Embedded firmware development with **ESP32**, **ESP-IDF**, **FreeRTOS**, **NRF52**, and **STM32**
 - IoT systems using **MQTT**, **AWS IoT**, **BLE**, **Wi-Fi**, and edge-to-cloud connectivity
-- Wireless and networked systems including **5G NR**, **NS-3**, **TCP/UDP/QUIC**, and congestion control
+- Wireless and networked systems including **5G NR**, **ns-3**, **TCP/UDP/QUIC**, and congestion control
 - Sensor interfacing and driver development over **I2C**, **SPI**, and **UART**
 - Intelligent systems that combine embedded platforms with **AI-driven networking and analytics**
 
