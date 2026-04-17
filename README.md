@@ -4,7 +4,7 @@
 
 I'm an embedded systems engineer and graduate researcher focused on building reliable connected systems across firmware, wireless communication, and intelligent applications.
 
-Currently, I’m pursuing a **Master’s in Electrical and Computer Engineering at the University of Manitoba**, where I work on **5G NR simulation for performance analysis of congestion control algorithms and transport protocols. My background includes **3+ years of experience** in **embedded software, IoT products, BLE mesh networking, ESP32 development, and real-time systems**.
+Currently, I’m pursuing a **Master’s in Electrical and Computer Engineering at the University of Manitoba**, where I work on **5G** NR simulation for performance analysis of congestion control algorithms and transport protocols. My background includes **3+ years of experience** in **embedded software, IoT products, BLE mesh networking, ESP32 development, and real-time systems**.
 
 I enjoy working on systems where hardware, firmware, and networking meet. Whether it is designing embedded features for connected products, building drivers close to the hardware, or evaluating transport protocols in complex wireless environments, I like solving practical engineering problems with measurable performance impact.
 
