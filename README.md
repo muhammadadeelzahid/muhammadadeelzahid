@@ -24,6 +24,9 @@ I enjoy working on systems where hardware, firmware, and networking meet. Whethe
   <img src="https://img.shields.io/badge/NRF52-00A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white" alt="NRF52" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
   <img src="https://img.shields.io/badge/Zephyr%20RTOS-734A8C?style=for-the-badge&logo=zephyr&logoColor=white" alt="Zephyr RTOS" />
+  <img src="https://img.shields.io/badge/Yocto-343B42?style=for-the-badge&logo=yocto&logoColor=white" alt="Yocto" />
+  <img src="https://img.shields.io/badge/OpenEmbedded-5C2D91?style=for-the-badge" alt="OpenEmbedded" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
   <img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="BLE" />
   <img src="https://img.shields.io/badge/Wi--Fi-1DA1F2?style=for-the-badge&logo=wifi&logoColor=white" alt="Wi-Fi" />
@@ -32,6 +35,5 @@ I enjoy working on systems where hardware, firmware, and networking meet. Whethe
   <img src="https://img.shields.io/badge/NS--3-2C3E50?style=for-the-badge" alt="NS-3" />
   <img src="https://img.shields.io/badge/5G%20NR-FF6F00?style=for-the-badge" alt="5G NR" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,aws,git,github,githubactions,gitlab,linux,bash,cmake,qt&perline=11" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,cmake,aws,git,github,githubactions,gitlab,qt&perline=11" alt="Tech stack icons" />
 </p>
-
