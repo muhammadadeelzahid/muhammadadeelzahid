@@ -12,9 +12,8 @@ I enjoy working on systems where hardware, firmware, and networking meet. Whethe
 - Embedded firmware development with **ESP32**, **ESP-IDF**, **FreeRTOS**, **NRF52**, and **STM32**
 - Embedded Linux development using **Yocto/OpenEmbedded**, U-Boot, Linux kernel, device tree, and drivers for custom **ARM** platforms
 - IoT systems using **MQTT**, **AWS IoT**, **BLE**, **Wi-Fi**, and edge-to-cloud connectivity
+- Sensor interfacing and driver development over **I2C**, **SPI**, **UART**, **CAN**
 - Wireless and networked systems including **5G NR**, **ns-3**, **TCP/UDP/QUIC**, and congestion control
-- Sensor interfacing and driver development over **I2C**, **SPI**, and **UART**
-- Intelligent systems that combine embedded platforms with **AI-driven networking and analytics**
 
 ## Tech stack
 <p align="left">
