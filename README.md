@@ -4,14 +4,14 @@
 
 I'm an embedded systems engineer and graduate researcher focused on building reliable connected systems across firmware, wireless communication, and intelligent applications. My background includes **3+ years of experience** in **embedded software and IoT products**.
 
-I am currently pursuing a Master’s degree in Electrical and Computer Engineering at the University of Manitoba. My research focuses on the end-to-end performance analysis and optimization of 5G NR networks, particularly in the areas of congestion control algorithms and transport protocols. I also contribute to open-source research and development in **ns-3**.
+I am currently pursuing a Master’s degree in Electrical and Computer Engineering at the University of Manitoba. My research focuses on the end-to-end performance analysis and optimization of 5G NR networks, particularly in the areas of congestion control algorithms and transport protocols. I also contribute to open-source research and development in **ns-3**. 
 
-I enjoy working on systems where hardware, firmware, and networking meet. Whether it is designing embedded features for connected products, building drivers close to the hardware, or evaluating networking protocols in complex wireless environments, I like solving practical engineering problems with measurable performance- impact.
+I enjoy working on systems where hardware, firmware, and networking meet. 
 
 ## What I work on
 - Embedded firmware development with **ESP32**, **ESP-IDF**, **FreeRTOS**, **NRF52**, and **STM32**
-- Embedded Linux development using **Yocto/OpenEmbedded**, Linux kernel, device tree, and drivers
-- IoT systems using **MQTT**, **AWS IoT**, **BLE**, **Wi-Fi**, and edge-to-cloud connectivity
+- Embedded Linux development using **Yocto/OpenEmbedded**, Linux kernel and drivers
+- IoT systems using **MQTT**, **AWS IoT**, **BLE**, **Wi-Fi**
 - Sensor interfacing and driver development over **I2C**, **SPI**, **UART**, **CAN**
 - Wireless and networked systems including **5G NR**, **ns-3**, **TCP/UDP/QUIC**, and congestion control
 
@@ -34,5 +34,5 @@ I enjoy working on systems where hardware, firmware, and networking meet. Whethe
   <img src="https://img.shields.io/badge/NS--3-2C3E50?style=for-the-badge" alt="NS-3" />
   <img src="https://img.shields.io/badge/5G%20NR-FF6F00?style=for-the-badge" alt="5G NR" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,cmake,aws,git,github,githubactions,gitlab,qt&perline=11" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,cmake,aws,git,gitlab,qt&perline=11" alt="Tech stack icons" />
 </p>
